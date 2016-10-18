@@ -1,0 +1,806 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &160226
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 415128}
+  - 82: {fileID: 8207748}
+  m_Layer: 0
+  m_Name: SoundChannelTemplate
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &162942
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 453644}
+  - 114: {fileID: 11453676}
+  m_Layer: 0
+  m_Name: SoundLibrary
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &168608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 449854}
+  - 114: {fileID: 11417848}
+  - 114: {fileID: 11432366}
+  - 114: {fileID: 11410222}
+  - 114: {fileID: 11474064}
+  - 81: {fileID: 8157264}
+  - 114: {fileID: 11429222}
+  - 114: {fileID: 11453394}
+  - 114: {fileID: 11415880}
+  - 114: {fileID: 11489810}
+  - 114: {fileID: 11483060}
+  - 114: {fileID: 11478558}
+  - 114: {fileID: 11414630}
+  - 114: {fileID: 11464406}
+  - 114: {fileID: 11439388}
+  - 114: {fileID: 11482846}
+  - 114: {fileID: 11467750}
+  - 114: {fileID: 11469674}
+  m_Layer: 0
+  m_Name: Main
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &198764
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 460720}
+  - 82: {fileID: 8202136}
+  m_Layer: 0
+  m_Name: Sound
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &415128
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 160226}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 460720}
+  m_RootOrder: 1
+--- !u!4 &449854
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 460720}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!4 &453644
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 162942}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 460720}
+  m_RootOrder: 0
+--- !u!4 &460720
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 198764}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 453644}
+  - {fileID: 415128}
+  m_Father: {fileID: 449854}
+  m_RootOrder: 0
+--- !u!81 &8157264
+AudioListener:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+--- !u!82 &8202136
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 198764}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!82 &8207748
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 160226}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 1
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!114 &11410222
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a11e79d42d94147428e913f39e93b901, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11414630
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d58f4acc63ee3124d8ee9b9569f0a938, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11415880
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c84ada8f2bb0ac3489d9f3037a1c1c74, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11417848
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17e7c3887f3c27e499c580dd332ddea9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11429222
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c19496146ce90a247a68a610ae4ffd78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberOfChannels: 32
+  channelTemplate: {fileID: 160226}
+  buttonClickSound: {fileID: 0}
+--- !u!114 &11432366
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75f096a12aa44a04ab9560ec7a161504, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11439388
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43744a9a76a00324bb5d0d360617a9fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11453394
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6f6ee98d32985842991efa9a99f8b64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  library: {fileID: 11453676}
+--- !u!114 &11453676
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 162942}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40ffb3784faf7dc4e994b3156a45ffed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundLibrary:
+  - name: SFX_UI_InsertCoin
+    sounds:
+    - {fileID: 8300000, guid: 5870ca9530a088547b9e5d972f2cedeb, type: 3}
+  - name: SFX_Standby_01
+    sounds:
+    - {fileID: 8300000, guid: 7e6b638ed9484904db481d390aa1dcbd, type: 3}
+  - name: SFX_Scene1
+    sounds:
+    - {fileID: 8300000, guid: 7a58175cb6896974e8485cfa8950c947, type: 3}
+  - name: SFX_UI_Account
+    sounds:
+    - {fileID: 8300000, guid: 9c7e90e2cd9e7004f93a6db42cfb7db2, type: 3}
+  - name: SFX_Monster_Cat
+    sounds:
+    - {fileID: 8300000, guid: ea88e4227c741874ab5b82d0decd53ec, type: 3}
+  - name: SFX_UI_CountDown
+    sounds:
+    - {fileID: 8300000, guid: f860024a23c71d84cbfe4ebb965ec5b3, type: 3}
+  - name: SFX_UI_CrashScreen
+    sounds:
+    - {fileID: 8300000, guid: 78450b60f06ff474299c0aaa901d7466, type: 3}
+  - name: SFX_Monster_Dog
+    sounds:
+    - {fileID: 8300000, guid: e489709727f141d44923f8592adf014f, type: 3}
+  - name: SFX_Fire_01
+    sounds:
+    - {fileID: 8300000, guid: 4764673e4faed5d449495c8ce9db429a, type: 3}
+  - name: SFX_UI_Gameover
+    sounds:
+    - {fileID: 8300000, guid: 75ac1ef63d7a4f844b1512e1d6ce3f4d, type: 3}
+  - name: SFX_UI_GetPoint
+    sounds:
+    - {fileID: 8300000, guid: 8e46246f9ab5e5e458dfa8d09e5ba872, type: 3}
+  - name: SFX_UI_GetReady
+    sounds:
+    - {fileID: 8300000, guid: b380cf832eecc8c43a6fbb7e387acd85, type: 3}
+  - name: SFX_UI_Key
+    sounds:
+    - {fileID: 8300000, guid: 32e21d8f03afeb942bc7b4bef4692bdd, type: 3}
+  - name: SFX_UI_Lose
+    sounds:
+    - {fileID: 8300000, guid: 8b53eb2d29837e34cbd3026d86beefb5, type: 3}
+  - name: SFX_UI_Start
+    sounds:
+    - {fileID: 8300000, guid: 1fc5d1513fb9cd54386676103b406c92, type: 3}
+  - name: SFX_UI_WaterWarning
+    sounds:
+    - {fileID: 8300000, guid: b61196c159735a34ca2b4d0785ac8336, type: 3}
+  - name: SFX_UI_Win
+    sounds:
+    - {fileID: 8300000, guid: 8a2c81fcd3d351548bafa887ab22ff46, type: 3}
+  - name: SFX_Standby_02
+    sounds:
+    - {fileID: 8300000, guid: ddf5640f5cdc4744eb639bb5df830c82, type: 3}
+  - name: SFX_Standby_03
+    sounds:
+    - {fileID: 8300000, guid: 8a7ae417927fc844ca52bcc7fcbc7f2c, type: 3}
+  - name: SFX_Standby_04
+    sounds:
+    - {fileID: 8300000, guid: 2db4ae3a4e533e7469bd4b3fe0e72107, type: 3}
+  - name: SFX_Scene2
+    sounds:
+    - {fileID: 8300000, guid: e23577f233d9e9943a6e87d401d64d3f, type: 3}
+  - name: SFX_Scene3
+    sounds:
+    - {fileID: 8300000, guid: 2ee33da56f3aa4e4d8e7f3dc1bf21a05, type: 3}
+  - name: SFX_Fire_02
+    sounds:
+    - {fileID: 8300000, guid: 058280a65483ad745a083cb6aefc0080, type: 3}
+  - name: SFX_Fire_03
+    sounds:
+    - {fileID: 8300000, guid: 970d152fe91b4a8448c5c42abfedf450, type: 3}
+  - name: SFX_Voice_Welcome
+    sounds:
+    - {fileID: 8300000, guid: eae46e5619f0c6a4b9678204ff6546e0, type: 3}
+  - name: SFX_Voice_Mission1Start
+    sounds:
+    - {fileID: 8300000, guid: 019ddff1af3ea3744b65b1aa2b9aea24, type: 3}
+  - name: SFX_Voice_AOE
+    sounds:
+    - {fileID: 8300000, guid: 7f9e02b2a3191e44f83954052119f769, type: 3}
+  - name: SFX_Voice_Water
+    sounds:
+    - {fileID: 8300000, guid: 07607405e1908ef449420045bd698eb9, type: 3}
+  - name: SFX_Voice_MissionOver
+    sounds:
+    - {fileID: 8300000, guid: fcf8e90279e62ae47b2511319bd9f303, type: 3}
+  - name: SFX_Voice_Animal
+    sounds:
+    - {fileID: 8300000, guid: 8f5b1785d2cdeec45b0597471478375a, type: 3}
+  - name: SFX_Voice_TimeUp
+    sounds:
+    - {fileID: 8300000, guid: 0e133f84530468b4bb7e1c0a7cd1e332, type: 3}
+  - name: SFX_Voice_GameOver
+    sounds:
+    - {fileID: 8300000, guid: ca94be0dbea04864f9d77f508ad70324, type: 3}
+  - name: SFX_Voice_Boss
+    sounds:
+    - {fileID: 8300000, guid: 7c9ec40876ab4ea44b0766cb67fb351e, type: 3}
+  - name: SFX_Voice_FireBall
+    sounds:
+    - {fileID: 8300000, guid: a23d653946dcd3e439db1cba66f90a3c, type: 3}
+  - name: SFX_Voice_Circle
+    sounds:
+    - {fileID: 8300000, guid: 51fba3f975134bd42b3baa5a364558c5, type: 3}
+  - name: SFX_Voice_BeAttacked
+    sounds:
+    - {fileID: 8300000, guid: 5029ded779cfb524f97f7b079914a86e, type: 3}
+  - name: SFX_Voice_WellDone
+    sounds:
+    - {fileID: 8300000, guid: c875b7ebdd4057d4d94c5330b9d4a963, type: 3}
+  - name: SFX_Voice_Success
+    sounds:
+    - {fileID: 8300000, guid: ee4c1bc5c8e02544aa69dc5eb4c63692, type: 3}
+  - name: SFX_Voice_Name
+    sounds:
+    - {fileID: 8300000, guid: 65971f3901b307945a37108708253231, type: 3}
+  - name: SFX_Voice_Tired
+    sounds:
+    - {fileID: 8300000, guid: 9eee725584ae6354c9042bb7255c8bb2, type: 3}
+  - name: SFX_Voice_GirlCitizen
+    sounds:
+    - {fileID: 8300000, guid: 166138f6d677a604b838fec56d2576ba, type: 3}
+  - name: SFX_Voice_BoyCitizen
+    sounds:
+    - {fileID: 8300000, guid: 64cd6eb6650c9e24a896c5d54e1212f7, type: 3}
+  - name: SFX_Voice_BabyCitizen
+    sounds:
+    - {fileID: 8300000, guid: 85a426adb1ab5e1408f95f8d0de279c3, type: 3}
+  - name: SFX_Voice_FireMonster01
+    sounds:
+    - {fileID: 8300000, guid: 666dc9d902284ce448342a3d7e92f896, type: 3}
+  - name: SFX_Voice_FireMonster02
+    sounds:
+    - {fileID: 8300000, guid: 2963b39689b64bb49bed55bdb6318157, type: 3}
+  - name: SFX_Voice_SmokeMonster01
+    sounds:
+    - {fileID: 8300000, guid: 89a4b32688597fc47af422caad8a9f38, type: 3}
+  - name: SFX_Voice_SmokeMonster02
+    sounds:
+    - {fileID: 8300000, guid: 9461308f3fac00c40bab1416e559951c, type: 3}
+  - name: SFX_Voice_BFireMonster01
+    sounds:
+    - {fileID: 8300000, guid: 250285003e11c3a488f775fcef1e90f9, type: 3}
+  - name: SFX_Voice_BFireMonster02
+    sounds:
+    - {fileID: 8300000, guid: a74b372483612c5408edb6fb77e0fbfe, type: 3}
+  - name: SFX_Voice_BossDead
+    sounds:
+    - {fileID: 8300000, guid: 0fc3588fc938446458837049d2bb3f15, type: 3}
+  - name: SFX_UI_AOE
+    sounds:
+    - {fileID: 8300000, guid: 2a531954c3d1aee429e5e308f93c817c, type: 3}
+  - name: SFX_UI_Water_Hydrant
+    sounds:
+    - {fileID: 8300000, guid: 6bc09bb6ec232864aa860c2f6ff50986, type: 3}
+  - name: SFX_UI_FireBall
+    sounds:
+    - {fileID: 8300000, guid: 97af0890c2c2b3c44819b19fc08d1ccc, type: 3}
+  - name: SFX_UI_Attack
+    sounds:
+    - {fileID: 8300000, guid: 96688a6b68aa0ea49855ef059ce26684, type: 3}
+  - name: SFX_UI_PreSummon
+    sounds:
+    - {fileID: 8300000, guid: bd6c75e2e0799424ab65535f1f66cebf, type: 3}
+  - name: SFX_UI_Summon
+    sounds:
+    - {fileID: 8300000, guid: a8b6cf8545b01f244a0fac9daa836480, type: 3}
+  - name: SFX_Rank
+    sounds:
+    - {fileID: 8300000, guid: 6a292de2948c41d458753281e23d1368, type: 3}
+  - name: SFX_UI_HitCircle
+    sounds:
+    - {fileID: 8300000, guid: 17b091285c583c34f87a077639db798e, type: 3}
+  - name: SFX_Voice_Mission2Start
+    sounds:
+    - {fileID: 8300000, guid: 019ddff1af3ea3744b65b1aa2b9aea24, type: 3}
+  - name: SFX_Voice_FireMonster03
+    sounds:
+    - {fileID: 8300000, guid: c6271981d22e55b4b8d868f9c6092133, type: 3}
+  - name: SFX_Voice_BFireMonster03
+    sounds:
+    - {fileID: 8300000, guid: 6a3090e1c08ab414a83b7b2b301385a1, type: 3}
+  - name: SFX_Voice_SmokeMonster03
+    sounds:
+    - {fileID: 8300000, guid: 75046fd7e82fa51438f34cad98cca2f7, type: 3}
+  - name: SFX_Voice_Animal_En
+    sounds:
+    - {fileID: 8300000, guid: 04ba8f1a33bb92d45b5fa98cba23e3d3, type: 3}
+  - name: SFX_Voice_AOE_En
+    sounds:
+    - {fileID: 8300000, guid: a3bb10d9c43175149b4023b15d8d5cb8, type: 3}
+  - name: SFX_Voice_BabyCitizen_En
+    sounds:
+    - {fileID: 8300000, guid: 5caf5f8a196a727448814b9b1e3aa99d, type: 3}
+  - name: SFX_Voice_BeAttacked_En
+    sounds:
+    - {fileID: 8300000, guid: a0d62fb6a07c1dc4fb7fb28e590d89f4, type: 3}
+  - name: SFX_Voice_BFireMonster_En01
+    sounds:
+    - {fileID: 8300000, guid: 9b13c3279673a9d4a81e3e260f9d3b76, type: 3}
+  - name: SFX_Voice_BFireMonster_En02
+    sounds:
+    - {fileID: 8300000, guid: c08566fb7fff5c14d9f6c17906306789, type: 3}
+  - name: SFX_Voice_BFireMonster_En03
+    sounds:
+    - {fileID: 8300000, guid: 28514f9eef29c624cadfc6b5a5a4baaf, type: 3}
+  - name: SFX_Voice_FireMonster_En02
+    sounds:
+    - {fileID: 8300000, guid: 23fd783f40558a141b30e1b98cc1b386, type: 3}
+  - name: SFX_Voice_FireMonster_En03
+    sounds:
+    - {fileID: 8300000, guid: b9b627b470c769042a1aeefa1d413032, type: 3}
+  - name: SFX_Voice_GameOver_En
+    sounds:
+    - {fileID: 8300000, guid: 567a50b5ad233fa41807c23f324018ed, type: 3}
+  - name: SFX_Voice_GirlCitizen_En
+    sounds:
+    - {fileID: 8300000, guid: aae21404871699549bf89678e9529a1b, type: 3}
+  - name: SFX_Voice_Mission1Start_En
+    sounds:
+    - {fileID: 8300000, guid: f2dc0ebab753eed4a872daed123c1b9a, type: 3}
+  - name: SFX_Voice_Mission2Start_En
+    sounds:
+    - {fileID: 8300000, guid: f2dc0ebab753eed4a872daed123c1b9a, type: 3}
+  - name: SFX_Voice_MissionOver_En
+    sounds:
+    - {fileID: 8300000, guid: d0be1c5596843f54c9d66a7f57135f10, type: 3}
+  - name: SFX_Voice_Name_En
+    sounds:
+    - {fileID: 8300000, guid: a5a071ab7afc3224092f32d962f42267, type: 3}
+  - name: SFX_Voice_SmokeMonster_En01
+    sounds:
+    - {fileID: 8300000, guid: 9077cd87482250044bc9229e13aa48a0, type: 3}
+  - name: SFX_Voice_SmokeMonster_En02
+    sounds:
+    - {fileID: 8300000, guid: a959b7d2abe98d94e84d72a7cc51eeed, type: 3}
+  - name: SFX_Voice_SmokeMonster_En03
+    sounds:
+    - {fileID: 8300000, guid: 49b078b8f8e0f7c44bbca755cc92c8b6, type: 3}
+  - name: SFX_Voice_Success_En
+    sounds:
+    - {fileID: 8300000, guid: 029febecb38e1c440b7493c89364af8f, type: 3}
+  - name: SFX_Voice_TimeUp_En
+    sounds:
+    - {fileID: 8300000, guid: 1f891efad30090641a8e944554d92ea8, type: 3}
+  - name: SFX_Voice_Tired_En
+    sounds:
+    - {fileID: 8300000, guid: c1a621f3b6f001d4ca9ea23e0c739d0a, type: 3}
+  - name: SFX_Voice_Water_En
+    sounds:
+    - {fileID: 8300000, guid: 7e657ef5d5dd029469491604a5bb8bcd, type: 3}
+  - name: SFX_Voice_Welcome_En
+    sounds:
+    - {fileID: 8300000, guid: 28a78f6ed5f23264f90f9a63affdd081, type: 3}
+  - name: SFX_Voice_WellDone_En
+    sounds:
+    - {fileID: 8300000, guid: cfd50fdfb7103994cab25da789319020, type: 3}
+  - name: SFX_Voice_Boss_En
+    sounds:
+    - {fileID: 8300000, guid: aadf5766fcde21e4da2102ac5d92adb6, type: 3}
+  - name: SFX_Voice_BossDead_En
+    sounds:
+    - {fileID: 8300000, guid: 170adc01f7c6f714aaf140dc19fba49e, type: 3}
+  - name: SFX_Voice_BoyCitizen_En
+    sounds:
+    - {fileID: 8300000, guid: a516ecc8b1aa98a4ca98459fd36fd34d, type: 3}
+  - name: SFX_Voice_Circle_En
+    sounds:
+    - {fileID: 8300000, guid: 7742e2209a5c4b9439c783bf58680237, type: 3}
+  - name: SFX_Voice_FireBall_En
+    sounds:
+    - {fileID: 8300000, guid: 706c06aea2b8b8842961d4b1ca047c0a, type: 3}
+  - name: SFX_Voice_FireMonster_En01
+    sounds:
+    - {fileID: 8300000, guid: 4e2a10895a4310d46a9bbe50cc684d1a, type: 3}
+--- !u!114 &11464406
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd5bb8149d4f2124491cf58a9b982333, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11467750
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3dc9d6d4b0bb0444af9c4e758610c91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  firemanPrefab: {fileID: 0}
+  dogPrefab: {fileID: 11473300, guid: e632703c759e63c42b1df2d355001327, type: 2}
+  birdPrefab: {fileID: 0}
+  babyCitizenPrefab: {fileID: 11433712, guid: 2a914105f95d6e04493666d3decdd50b, type: 2}
+  boyCitizenPrefab: {fileID: 11408682, guid: 20f63b903064e6447b001a0a2f1d8fdb, type: 2}
+  bFireMonsterPrefab: {fileID: 11414832, guid: 3d3a4f8a54fe61f468ac5ccfe771047a, type: 2}
+  catPrefab: {fileID: 11434798, guid: 62e155b719ad2854b82ff208dd1a0d51, type: 2}
+  girlCitizenPrefab: {fileID: 11455982, guid: 3372d69748ac5f646b70bee15739aa98, type: 2}
+  smokeMonsterPrefab: {fileID: 11467626, guid: 45a471ba65e0bb74ba5c563d870424a3, type: 2}
+  fireMonsterPrefab: {fileID: 11427128, guid: 5ef206e479f307e45986912c6d465840, type: 2}
+  bossPrefab: {fileID: 11490608, guid: 9b37e3988c799d54690cca2bc76ba8eb, type: 2}
+  balloonScene1Prefab: {fileID: 11401738, guid: 8f7fc7f5bdfc0cd439800f4a0dfeb111,
+    type: 2}
+  balloonScene2Prefab: {fileID: 11444812, guid: 5a1a7f6ec21402a44ab6e5d8539f355e,
+    type: 2}
+  balloonScene3Prefab: {fileID: 11481836, guid: 7e3f37574ccd72843bad22d1f3793a57,
+    type: 2}
+--- !u!114 &11469674
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a3e098b8d0f73f4ebb5be9be5f9f963, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  huoYanCatPrefab: {fileID: 100404, guid: 02526522ca7f2d642bd1e62ee9995228, type: 2}
+  yanWuDog1Prefab: {fileID: 174156, guid: 1fa783d0e47a27e49906b4bdd1c6da67, type: 2}
+  ziRan01Prefab: {fileID: 197154, guid: 43b730b1381309a40a435b940ba461a3, type: 2}
+  ziRan02Prefab: {fileID: 118182, guid: cb55595d9297408479f70e39a4ad4677, type: 2}
+  ziRan03Prefab: {fileID: 159760, guid: b954e3239c427734494d513acc3f9ef6, type: 2}
+  hitSmokePuffPrefab: {fileID: 147740, guid: b49e1c7f57706b148bc3148cc59267a9, type: 2}
+  ziRan04Prefab: {fileID: 112960, guid: dcd627b3afcf53941807a461a471d15e, type: 2}
+  baoZha01Prefab: {fileID: 129910, guid: 23fc4a158967fd547b236b81f228f421, type: 2}
+  huoTuanPrefab: {fileID: 103754, guid: e80f243184ab83445be58ab164a79e62, type: 2}
+  yanTuanPrefab: {fileID: 195488, guid: 0a741d5b5e82f8049a159be49142e865, type: 2}
+  yanLei01Prefab: {fileID: 109418, guid: 9b52cb3d29f19c94caba55d798330e13, type: 2}
+  yanLei02Prefab: {fileID: 194720, guid: 0bbe57e6a7517a449b1b68971297d73a, type: 2}
+  huoYanBossHeadPrefab: {fileID: 148960, guid: 725a7bdf19d609049b0a0baaa19f3e90, type: 2}
+  huoYanBossLeftPrefab: {fileID: 132070, guid: 89fbfe6f609e7ce49a8d9de758e49cee, type: 2}
+  huoYanBossRightPrefab: {fileID: 186452, guid: 7d42a4cadc3faf14faa7c2d58e861f2a,
+    type: 2}
+  huoQiuBossPrefab: {fileID: 152570, guid: 689cc946590a75b4f819d7b06ea702c8, type: 2}
+  zhuaJiBossPrefab: {fileID: 0}
+  zhaoHuanBossPrefab: {fileID: 121578, guid: 73aad21fb62e7b847acb8f437f2f6855, type: 2}
+  huoZhenBossPrefab: {fileID: 143184, guid: c333ed47e4426d243a1406c6c31c8718, type: 2}
+  aOEPrefab: {fileID: 106334, guid: be7d4676744812b4a912ab2dfeee3a74, type: 2}
+  tempEffectBox: tempEffectBox
+--- !u!114 &11474064
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad5c647129b1680409a7d5d22b86c612, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11478558
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43744a9a76a00324bb5d0d360617a9fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11482846
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d58f4acc63ee3124d8ee9b9569f0a938, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11483060
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd5bb8149d4f2124491cf58a9b982333, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11489810
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 185c5a84bd7dbc34ca943babfbbed445, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 168608}
+  m_IsPrefabParent: 1

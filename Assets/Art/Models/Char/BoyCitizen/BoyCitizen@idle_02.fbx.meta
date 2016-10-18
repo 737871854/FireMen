@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: eda137a72fd391449b3bca67b38c5454
+timeCreated: 1448863493
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chest_01
+    100004: chest_02
+    100006: chest_03
+    100008: head
+    100010: joint23
+    100012: joint24
+    100014: joint25
+    100016: joint26
+    100018: joint27
+    100020: joint28
+    100022: joint29
+    100024: joint30
+    100026: joint31
+    100028: joint32
+    100030: joint33
+    100032: joint34
+    100034: joint35
+    100036: joint36
+    100038: joint37
+    100040: joint38
+    100042: joint39
+    100044: joint40
+    100046: joint41
+    100048: L_arm
+    100050: L_Ball
+    100052: L_elbow
+    100054: L_heel
+    100056: L_knee
+    100058: L_shoulder
+    100060: L_thigh
+    100062: L_wrist
+    100064: neck
+    100066: R_arm
+    100068: R_Ball
+    100070: R_elbow
+    100072: R_heel
+    100074: R_index_01
+    100076: R_index_02
+    100078: R_index_03
+    100080: R_index_04
+    100082: R_knee
+    100084: R_little_01
+    100086: R_little_02
+    100088: R_little_03
+    100090: R_little_04
+    100092: R_middle_01
+    100094: R_middle_02
+    100096: R_middle_03
+    100098: R_middle_04
+    100100: R_ring_01
+    100102: R_ring_01 1
+    100104: R_ring_01 2
+    100106: R_ring_01 3
+    100108: R_shoulder
+    100110: R_thigh
+    100112: R_thumb_01
+    100114: R_thumb_02
+    100116: R_thumb_03
+    100118: R_wrist
+    100120: Warst
+    400000: //RootNode
+    400002: chest_01
+    400004: chest_02
+    400006: chest_03
+    400008: head
+    400010: joint23
+    400012: joint24
+    400014: joint25
+    400016: joint26
+    400018: joint27
+    400020: joint28
+    400022: joint29
+    400024: joint30
+    400026: joint31
+    400028: joint32
+    400030: joint33
+    400032: joint34
+    400034: joint35
+    400036: joint36
+    400038: joint37
+    400040: joint38
+    400042: joint39
+    400044: joint40
+    400046: joint41
+    400048: L_arm
+    400050: L_Ball
+    400052: L_elbow
+    400054: L_heel
+    400056: L_knee
+    400058: L_shoulder
+    400060: L_thigh
+    400062: L_wrist
+    400064: neck
+    400066: R_arm
+    400068: R_Ball
+    400070: R_elbow
+    400072: R_heel
+    400074: R_index_01
+    400076: R_index_02
+    400078: R_index_03
+    400080: R_index_04
+    400082: R_knee
+    400084: R_little_01
+    400086: R_little_02
+    400088: R_little_03
+    400090: R_little_04
+    400092: R_middle_01
+    400094: R_middle_02
+    400096: R_middle_03
+    400098: R_middle_04
+    400100: R_ring_01
+    400102: R_ring_01 1
+    400104: R_ring_01 2
+    400106: R_ring_01 3
+    400108: R_shoulder
+    400110: R_thigh
+    400112: R_thumb_01
+    400114: R_thumb_02
+    400116: R_thumb_03
+    400118: R_wrist
+    400120: Warst
+    7400000: idle_02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle_02
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Warst
+        weight: 1
+      - path: Warst/chest_03
+        weight: 1
+      - path: Warst/chest_03/chest_02
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint23
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint23/joint24
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint23/joint24/joint25
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint26
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint26/joint27
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint26/joint27/joint28
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint30
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint30/joint31
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint30/joint31/joint32
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint30/joint31/joint32/joint33
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint34
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint34/joint35
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint34/joint35/joint36
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint34/joint35/joint36/joint37
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint38
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint38/joint39
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint38/joint39/joint40
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/L_shoulder/L_arm/L_elbow/L_wrist/joint38/joint39/joint40/joint41
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/neck
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/neck/head
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_index_01
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_index_01/R_index_02
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_index_01/R_index_02/R_index_03
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_index_01/R_index_02/R_index_03/R_index_04
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_little_01
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_little_01/R_little_02
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_little_01/R_little_02/R_little_03
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_little_01/R_little_02/R_little_03/R_little_04
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_middle_01
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_middle_01/R_middle_02
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_middle_01/R_middle_02/R_middle_03
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_middle_01/R_middle_02/R_middle_03/R_middle_04
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_ring_01
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_ring_01/R_ring_01
+          1
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_ring_01/R_ring_01
+          1/R_ring_01 2
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_ring_01/R_ring_01
+          1/R_ring_01 2/R_ring_01 3
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb_01
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb_01/R_thumb_02
+        weight: 1
+      - path: Warst/chest_03/chest_02/chest_01/R_shoulder/R_arm/R_elbow/R_wrist/R_thumb_01/R_thumb_02/R_thumb_03
+        weight: 1
+      - path: Warst/L_thigh
+        weight: 1
+      - path: Warst/L_thigh/L_knee
+        weight: 1
+      - path: Warst/L_thigh/L_knee/L_heel
+        weight: 1
+      - path: Warst/L_thigh/L_knee/L_heel/L_Ball
+        weight: 1
+      - path: Warst/R_thigh
+        weight: 1
+      - path: Warst/R_thigh/R_knee
+        weight: 1
+      - path: Warst/R_thigh/R_knee/R_heel
+        weight: 1
+      - path: Warst/R_thigh/R_knee/R_heel/R_Ball
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

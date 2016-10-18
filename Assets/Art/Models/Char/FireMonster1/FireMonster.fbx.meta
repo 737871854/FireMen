@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 88f0621600cc5d14c84e6162fe0f5950
+timeCreated: 1449544300
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: FireBind_1
+    100002: //RootNode
+    100004: FireMonster1
+    100006: head
+    100008: head_10_01
+    100010: head_11_01
+    100012: head_12_01
+    100014: head_13_01
+    100016: head_14_01
+    100018: head_15_01
+    100020: head_16_01
+    100022: head_18_01
+    100024: head_1_01
+    100026: head_1_02
+    100028: head_1_03
+    100030: head_1_04
+    100032: head_2_01
+    100034: head_2_02
+    100036: head_2_03
+    100038: head_2_04
+    100040: head_3_01
+    100042: head_3_02
+    100044: head_3_03
+    100046: head_3_04
+    100048: head_4_01
+    100050: head_5_01
+    100052: head_6_01
+    100054: head_7_01
+    100056: head_8_01
+    100058: head_9_01
+    100060: joint31
+    100062: joint32
+    100064: joint33
+    100066: joint35
+    100068: joint36
+    100070: joint37
+    100072: joint39
+    100074: joint40
+    100076: joint42
+    100078: joint43
+    100080: joint44
+    100082: joint46
+    100084: joint47
+    100086: joint48
+    100088: joint50
+    100090: joint51
+    100092: joint53
+    100094: joint54
+    100096: joint55
+    100098: joint57
+    100100: joint58
+    100102: joint59
+    100104: joint61
+    100106: joint62
+    100108: joint64
+    100110: joint65
+    100112: joint67
+    100114: joint68
+    100116: joint69
+    100118: joint71
+    100120: joint72
+    100122: joint73
+    100124: joint80
+    100126: joint85
+    100128: joint86
+    100130: waist
+    400000: FireBind_1
+    400002: //RootNode
+    400004: FireMonster1
+    400006: head
+    400008: head_10_01
+    400010: head_11_01
+    400012: head_12_01
+    400014: head_13_01
+    400016: head_14_01
+    400018: head_15_01
+    400020: head_16_01
+    400022: head_18_01
+    400024: head_1_01
+    400026: head_1_02
+    400028: head_1_03
+    400030: head_1_04
+    400032: head_2_01
+    400034: head_2_02
+    400036: head_2_03
+    400038: head_2_04
+    400040: head_3_01
+    400042: head_3_02
+    400044: head_3_03
+    400046: head_3_04
+    400048: head_4_01
+    400050: head_5_01
+    400052: head_6_01
+    400054: head_7_01
+    400056: head_8_01
+    400058: head_9_01
+    400060: joint31
+    400062: joint32
+    400064: joint33
+    400066: joint35
+    400068: joint36
+    400070: joint37
+    400072: joint39
+    400074: joint40
+    400076: joint42
+    400078: joint43
+    400080: joint44
+    400082: joint46
+    400084: joint47
+    400086: joint48
+    400088: joint50
+    400090: joint51
+    400092: joint53
+    400094: joint54
+    400096: joint55
+    400098: joint57
+    400100: joint58
+    400102: joint59
+    400104: joint61
+    400106: joint62
+    400108: joint64
+    400110: joint65
+    400112: joint67
+    400114: joint68
+    400116: joint69
+    400118: joint71
+    400120: joint72
+    400122: joint73
+    400124: joint80
+    400126: joint85
+    400128: joint86
+    400130: waist
+    4300000: FireMonster1
+    9500000: //RootNode
+    13700000: FireMonster1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

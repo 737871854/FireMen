@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 40638c4787e3c034fa2a4d2edadc88e2
+timeCreated: 1448864041
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: head
+    100004: head_10_01
+    100006: head_11_01
+    100008: head_12_01
+    100010: head_13_01
+    100012: head_14_01
+    100014: head_15_01
+    100016: head_16_01
+    100018: head_18_01
+    100020: head_1_01
+    100022: head_1_02
+    100024: head_1_03
+    100026: head_1_04
+    100028: head_2_01
+    100030: head_2_02
+    100032: head_2_03
+    100034: head_2_04
+    100036: head_3_01
+    100038: head_3_02
+    100040: head_3_03
+    100042: head_3_04
+    100044: head_4_01
+    100046: head_5_01
+    100048: head_6_01
+    100050: head_7_01
+    100052: head_8_01
+    100054: head_9_01
+    100056: joint31
+    100058: joint32
+    100060: joint33
+    100062: joint35
+    100064: joint36
+    100066: joint37
+    100068: joint39
+    100070: joint40
+    100072: joint42
+    100074: joint43
+    100076: joint44
+    100078: joint46
+    100080: joint47
+    100082: joint48
+    100084: joint50
+    100086: joint51
+    100088: joint53
+    100090: joint54
+    100092: joint55
+    100094: joint57
+    100096: joint58
+    100098: joint59
+    100100: joint61
+    100102: joint62
+    100104: joint64
+    100106: joint65
+    100108: joint67
+    100110: joint68
+    100112: joint69
+    100114: joint71
+    100116: joint72
+    100118: joint73
+    100120: joint80
+    100122: joint85
+    100124: joint86
+    100126: waist
+    400000: //RootNode
+    400002: head
+    400004: head_10_01
+    400006: head_11_01
+    400008: head_12_01
+    400010: head_13_01
+    400012: head_14_01
+    400014: head_15_01
+    400016: head_16_01
+    400018: head_18_01
+    400020: head_1_01
+    400022: head_1_02
+    400024: head_1_03
+    400026: head_1_04
+    400028: head_2_01
+    400030: head_2_02
+    400032: head_2_03
+    400034: head_2_04
+    400036: head_3_01
+    400038: head_3_02
+    400040: head_3_03
+    400042: head_3_04
+    400044: head_4_01
+    400046: head_5_01
+    400048: head_6_01
+    400050: head_7_01
+    400052: head_8_01
+    400054: head_9_01
+    400056: joint31
+    400058: joint32
+    400060: joint33
+    400062: joint35
+    400064: joint36
+    400066: joint37
+    400068: joint39
+    400070: joint40
+    400072: joint42
+    400074: joint43
+    400076: joint44
+    400078: joint46
+    400080: joint47
+    400082: joint48
+    400084: joint50
+    400086: joint51
+    400088: joint53
+    400090: joint54
+    400092: joint55
+    400094: joint57
+    400096: joint58
+    400098: joint59
+    400100: joint61
+    400102: joint62
+    400104: joint64
+    400106: joint65
+    400108: joint67
+    400110: joint68
+    400112: joint69
+    400114: joint71
+    400116: joint72
+    400118: joint73
+    400120: joint80
+    400122: joint85
+    400124: joint86
+    400126: waist
+    7400000: idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: waist
+        weight: 1
+      - path: waist/head
+        weight: 1
+      - path: waist/head/head_1_01
+        weight: 1
+      - path: waist/head/head_1_01/head_1_02
+        weight: 1
+      - path: waist/head/head_1_01/head_1_02/head_1_03
+        weight: 1
+      - path: waist/head/head_1_01/head_1_02/head_1_03/head_1_04
+        weight: 1
+      - path: waist/head/head_2_01
+        weight: 1
+      - path: waist/head/head_2_01/head_2_02
+        weight: 1
+      - path: waist/head/head_2_01/head_2_02/head_2_03
+        weight: 1
+      - path: waist/head/head_2_01/head_2_02/head_2_03/head_2_04
+        weight: 1
+      - path: waist/head/head_3_01
+        weight: 1
+      - path: waist/head/head_3_01/head_3_02
+        weight: 1
+      - path: waist/head/head_3_01/head_3_02/joint80
+        weight: 1
+      - path: waist/head/head_3_01/head_3_02/joint80/head_3_03
+        weight: 1
+      - path: waist/head/head_3_01/head_3_02/joint80/head_3_03/head_3_04
+        weight: 1
+      - path: waist/head/head_4_01
+        weight: 1
+      - path: waist/head/head_4_01/joint53
+        weight: 1
+      - path: waist/head/head_4_01/joint53/joint54
+        weight: 1
+      - path: waist/head/head_4_01/joint53/joint54/joint55
+        weight: 1
+      - path: waist/head/head_5_01
+        weight: 1
+      - path: waist/head/head_5_01/joint57
+        weight: 1
+      - path: waist/head/head_5_01/joint57/joint58
+        weight: 1
+      - path: waist/head/head_6_01
+        weight: 1
+      - path: waist/head/head_6_01/joint35
+        weight: 1
+      - path: waist/head/head_6_01/joint35/joint36
+        weight: 1
+      - path: waist/head/head_6_01/joint35/joint36/joint37
+        weight: 1
+      - path: waist/head/head_7_01
+        weight: 1
+      - path: waist/head/head_7_01/head_13_01
+        weight: 1
+      - path: waist/head/head_7_01/head_13_01/joint85
+        weight: 1
+      - path: waist/head/head_7_01/head_13_01/joint85/joint86
+        weight: 1
+      - path: waist/head/head_8_01
+        weight: 1
+      - path: waist/head/head_8_01/joint50
+        weight: 1
+      - path: waist/head/head_8_01/joint50/joint51
+        weight: 1
+      - path: waist/head/head_9_01
+        weight: 1
+      - path: waist/head/head_9_01/joint46
+        weight: 1
+      - path: waist/head/head_9_01/joint46/joint47
+        weight: 1
+      - path: waist/head/head_9_01/joint46/joint47/joint48
+        weight: 1
+      - path: waist/head/head_10_01
+        weight: 1
+      - path: waist/head/head_10_01/joint31
+        weight: 1
+      - path: waist/head/head_10_01/joint31/joint32
+        weight: 1
+      - path: waist/head/head_10_01/joint31/joint32/joint33
+        weight: 1
+      - path: waist/head/head_11_01
+        weight: 1
+      - path: waist/head/head_11_01/joint64
+        weight: 1
+      - path: waist/head/head_11_01/joint64/joint65
+        weight: 1
+      - path: waist/head/head_12_01
+        weight: 1
+      - path: waist/head/head_12_01/joint39
+        weight: 1
+      - path: waist/head/head_12_01/joint39/joint40
+        weight: 1
+      - path: waist/head/head_14_01
+        weight: 1
+      - path: waist/head/head_14_01/joint42
+        weight: 1
+      - path: waist/head/head_14_01/joint42/joint43
+        weight: 1
+      - path: waist/head/head_14_01/joint42/joint43/joint44
+        weight: 1
+      - path: waist/head/head_15_01
+        weight: 1
+      - path: waist/head/head_15_01/joint67
+        weight: 1
+      - path: waist/head/head_15_01/joint67/joint68
+        weight: 1
+      - path: waist/head/head_15_01/joint67/joint68/joint69
+        weight: 1
+      - path: waist/head/head_16_01
+        weight: 1
+      - path: waist/head/head_16_01/joint71
+        weight: 1
+      - path: waist/head/head_16_01/joint71/joint72
+        weight: 1
+      - path: waist/head/head_16_01/joint71/joint72/joint73
+        weight: 1
+      - path: waist/head/joint59
+        weight: 1
+      - path: waist/head/joint59/head_18_01
+        weight: 1
+      - path: waist/head/joint59/head_18_01/joint61
+        weight: 1
+      - path: waist/head/joint59/head_18_01/joint61/joint62
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

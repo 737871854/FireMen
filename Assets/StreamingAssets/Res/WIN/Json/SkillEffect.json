@@ -1,0 +1,38 @@
+[
+  {
+    "AffectList": [
+      1, 
+      -1
+    ], 
+    "BuffProbability": 10000, 
+    "BuffUsefulType": 1, 
+    "DurationTick": 30000, 
+    "EffectShape": [
+      0.0
+    ], 
+    "Id": 101, 
+    "Index": 1, 
+    "IntervalTick": 1000, 
+    "PlayerDiscoloration": 0.0, 
+    "SkillDescription": "每1000毫秒扣1血", 
+    "SkillName": "小狗自燃效果"
+  }, 
+  {
+    "AffectList": [
+      1, 
+      -1
+    ], 
+    "BuffProbability": 10000, 
+    "BuffUsefulType": 1, 
+    "DurationTick": 30000, 
+    "EffectShape": [
+      0.0
+    ], 
+    "Id": 102, 
+    "Index": 2, 
+    "IntervalTick": 1000, 
+    "PlayerDiscoloration": 0.0, 
+    "SkillDescription": "每1000毫秒扣1血", 
+    "SkillName": "市民扣血效果"
+  }
+]

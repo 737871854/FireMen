@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: dc4ca92930d0ea84bba2f97414d1896a
+timeCreated: 1448864293
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: chest_01
+    100002: chest_02
+    100004: chest_03
+    100006: chest_04
+    100008: chest_05
+    100010: chest_06
+    100012: chest_07
+    100014: chest_08
+    100016: chest_09
+    100018: chest_10
+    100020: H_head_01
+    100022: H_head_02
+    100024: H_head_03
+    100026: H_head_04
+    100028: head
+    100030: joint14
+    100032: joint18
+    100034: joint22
+    100036: joint23
+    100038: L_arm
+    100040: L_elbow
+    100042: L_head_01
+    100044: L_head_02
+    100046: L_head_03
+    100048: L_shoulder
+    100050: L_wrist
+    100052: L_yan
+    100054: L_yanjiao_01
+    100056: L_yanjiao_02
+    100058: L_yanjiao_03
+    100060: L_yanjiao_04
+    100062: L_yanjiao_05
+    100064: L_yanjiao_06
+    100066: L_zujiaoi_01
+    100068: L_zujiaoi_02
+    100070: R_arm
+    100072: R_elbow
+    100074: R_head_01
+    100076: R_head_02
+    100078: R_head_03
+    100080: R_shoulder
+    100082: R_wrist
+    100084: R_yan
+    100086: R_yanjiao_02
+    100088: R_yanjiao_02 1
+    100090: R_yanjiao_03
+    100092: R_yanjiao_04
+    100094: R_yanjiao_05
+    100096: R_yanjiao_06
+    100098: R_zujiaoi_01
+    100100: R_zujiaoi_02
+    100102: //RootNode
+    100104: waist
+    100106: zui_01
+    100108: zui_02
+    400000: chest_01
+    400002: chest_02
+    400004: chest_03
+    400006: chest_04
+    400008: chest_05
+    400010: chest_06
+    400012: chest_07
+    400014: chest_08
+    400016: chest_09
+    400018: chest_10
+    400020: H_head_01
+    400022: H_head_02
+    400024: H_head_03
+    400026: H_head_04
+    400028: head
+    400030: joint14
+    400032: joint18
+    400034: joint22
+    400036: joint23
+    400038: L_arm
+    400040: L_elbow
+    400042: L_head_01
+    400044: L_head_02
+    400046: L_head_03
+    400048: L_shoulder
+    400050: L_wrist
+    400052: L_yan
+    400054: L_yanjiao_01
+    400056: L_yanjiao_02
+    400058: L_yanjiao_03
+    400060: L_yanjiao_04
+    400062: L_yanjiao_05
+    400064: L_yanjiao_06
+    400066: L_zujiaoi_01
+    400068: L_zujiaoi_02
+    400070: R_arm
+    400072: R_elbow
+    400074: R_head_01
+    400076: R_head_02
+    400078: R_head_03
+    400080: R_shoulder
+    400082: R_wrist
+    400084: R_yan
+    400086: R_yanjiao_02
+    400088: R_yanjiao_02 1
+    400090: R_yanjiao_03
+    400092: R_yanjiao_04
+    400094: R_yanjiao_05
+    400096: R_yanjiao_06
+    400098: R_zujiaoi_01
+    400100: R_zujiaoi_02
+    400102: //RootNode
+    400104: waist
+    400106: zui_01
+    400108: zui_02
+    7400000: run
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: waist
+        weight: 1
+      - path: waist/chest_01
+        weight: 1
+      - path: waist/chest_01/chest_02
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03/chest_04
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03/chest_04/chest_05
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03/chest_04/chest_05/chest_06
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03/chest_04/chest_05/chest_06/chest_07
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03/chest_04/chest_05/chest_06/chest_07/chest_08
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03/chest_04/chest_05/chest_06/chest_07/chest_08/chest_09
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03/chest_04/chest_05/chest_06/chest_07/chest_08/chest_09/chest_10
+        weight: 1
+      - path: waist/head
+        weight: 1
+      - path: waist/head/H_head_01
+        weight: 1
+      - path: waist/head/H_head_01/H_head_02
+        weight: 1
+      - path: waist/head/H_head_01/H_head_02/H_head_03
+        weight: 1
+      - path: waist/head/H_head_01/H_head_02/H_head_03/H_head_04
+        weight: 1
+      - path: waist/head/joint14
+        weight: 1
+      - path: waist/head/joint23
+        weight: 1
+      - path: waist/head/joint23/joint18
+        weight: 1
+      - path: waist/head/joint23/joint18/L_yan
+        weight: 1
+      - path: waist/head/joint23/joint18/L_yanjiao_01
+        weight: 1
+      - path: waist/head/joint23/joint18/L_yanjiao_01/L_yanjiao_02
+        weight: 1
+      - path: waist/head/joint23/joint18/L_yanjiao_03
+        weight: 1
+      - path: waist/head/joint23/joint18/L_yanjiao_03/L_yanjiao_04
+        weight: 1
+      - path: waist/head/joint23/joint18/L_yanjiao_05
+        weight: 1
+      - path: waist/head/joint23/joint18/L_yanjiao_05/L_yanjiao_06
+        weight: 1
+      - path: waist/head/joint23/joint22
+        weight: 1
+      - path: waist/head/joint23/joint22/R_yan
+        weight: 1
+      - path: waist/head/joint23/joint22/R_yanjiao_02
+        weight: 1
+      - path: waist/head/joint23/joint22/R_yanjiao_02/R_yanjiao_02 1
+        weight: 1
+      - path: waist/head/joint23/joint22/R_yanjiao_03
+        weight: 1
+      - path: waist/head/joint23/joint22/R_yanjiao_03/R_yanjiao_04
+        weight: 1
+      - path: waist/head/joint23/joint22/R_yanjiao_05
+        weight: 1
+      - path: waist/head/joint23/joint22/R_yanjiao_05/R_yanjiao_06
+        weight: 1
+      - path: waist/head/L_head_01
+        weight: 1
+      - path: waist/head/L_head_01/L_head_02
+        weight: 1
+      - path: waist/head/L_head_01/L_head_02/L_head_03
+        weight: 1
+      - path: waist/head/L_zujiaoi_01
+        weight: 1
+      - path: waist/head/L_zujiaoi_01/L_zujiaoi_02
+        weight: 1
+      - path: waist/head/R_head_01
+        weight: 1
+      - path: waist/head/R_head_01/R_head_02
+        weight: 1
+      - path: waist/head/R_head_01/R_head_02/R_head_03
+        weight: 1
+      - path: waist/head/R_zujiaoi_01
+        weight: 1
+      - path: waist/head/R_zujiaoi_01/R_zujiaoi_02
+        weight: 1
+      - path: waist/head/zui_01
+        weight: 1
+      - path: waist/head/zui_01/zui_02
+        weight: 1
+      - path: waist/L_shoulder
+        weight: 1
+      - path: waist/L_shoulder/L_arm
+        weight: 1
+      - path: waist/L_shoulder/L_arm/L_elbow
+        weight: 1
+      - path: waist/L_shoulder/L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: waist/R_shoulder
+        weight: 1
+      - path: waist/R_shoulder/R_arm
+        weight: 1
+      - path: waist/R_shoulder/R_arm/R_elbow
+        weight: 1
+      - path: waist/R_shoulder/R_arm/R_elbow/R_wrist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

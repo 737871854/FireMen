@@ -1,0 +1,1183 @@
+[
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 101, 
+    "ImpactBomb": 1, 
+    "Index": 1, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.017, 
+      0.889, 
+      5.166
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 102, 
+    "ImpactBomb": 1, 
+    "Index": 2, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.679, 
+      0.726, 
+      5.21
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "YanTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 103, 
+    "ImpactBomb": 1, 
+    "Index": 3, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "烟雾", 
+    "SkillName": "烟雾自爆", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      -0.5, 
+      0.956, 
+      5.21
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 104, 
+    "ImpactBomb": 1, 
+    "Index": 4, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      -0.5, 
+      0.956, 
+      5.21
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 105, 
+    "ImpactBomb": 1, 
+    "Index": 5, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.017, 
+      0.889, 
+      5.166
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "YanTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 106, 
+    "ImpactBomb": 1, 
+    "Index": 6, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "烟雾", 
+    "SkillName": "烟雾自爆", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.679, 
+      0.726, 
+      5.21
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 107, 
+    "ImpactBomb": 1, 
+    "Index": 7, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.679, 
+      0.726, 
+      5.21
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 108, 
+    "ImpactBomb": 1, 
+    "Index": 8, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      -0.5, 
+      0.956, 
+      5.21
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "YanTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 109, 
+    "ImpactBomb": 1, 
+    "Index": 9, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "烟雾", 
+    "SkillName": "烟雾自爆", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.017, 
+      0.889, 
+      5.166
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 1, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 0, 
+    "Effect": [
+      0.0
+    ], 
+    "FixedDamage": 0, 
+    "Id": 110, 
+    "ImpactBomb": 0, 
+    "Index": 10, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      101
+    ], 
+    "PercentDamage": 0, 
+    "SkillDescription": "扣血", 
+    "SkillName": "小狗小猫", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      0.0
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      "NULL"
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 1, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 0, 
+    "Effect": [
+      0.0
+    ], 
+    "FixedDamage": 0, 
+    "Id": 111, 
+    "ImpactBomb": 0, 
+    "Index": 11, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      102
+    ], 
+    "PercentDamage": 0, 
+    "SkillDescription": "扣血", 
+    "SkillName": "市民", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      0.0
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      "NULL"
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "FireBall", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 1000, 
+    "CoolTick": 10000, 
+    "DamageLifeTime": 0, 
+    "Effect": [
+      "HuoQiu_Boss", 
+      "HandBind_Left", 
+      "1", 
+      "HuoQiu_Boss", 
+      "HandBind_Right", 
+      "1"
+    ], 
+    "FixedDamage": 0, 
+    "Id": 112, 
+    "ImpactBomb": 0, 
+    "Index": 12, 
+    "IsHarm": 1, 
+    "IsSummon": 1, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 0, 
+    "SkillDescription": "火球", 
+    "SkillName": "丢火球", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.0, 
+      -0.005, 
+      0.55
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      "13003", 
+      "1", 
+      "1", 
+      "1", 
+      "HandBind_Right", 
+      "500", 
+      "13002", 
+      "1", 
+      "1", 
+      "1", 
+      "HandBind_Left", 
+      "600"
+    ], 
+    "TriggerSound": [
+      "SFX_UI_FireBall", 
+      "10000"
+    ], 
+    "TriggerTime": 1000, 
+    "UseShake": [
+      "NULL"
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 113, 
+    "ImpactBomb": 1, 
+    "Index": 13, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      -0.194, 
+      0.633, 
+      3.069
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 114, 
+    "ImpactBomb": 1, 
+    "Index": 14, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.284, 
+      0.707, 
+      3.069
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 400, 
+    "Animation": "Attack", 
+    "BulletTime": [
+      "0.025", 
+      "250", 
+      "4500", 
+      "3", 
+      "3", 
+      "KneeBind_Left", 
+      "HandBind_Right", 
+      "HandBind_Left"
+    ], 
+    "BulletTimeSound": [
+      "SFX_Voice_Circle_En", 
+      "5000"
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 1000, 
+    "CoolTick": 10000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      0.0
+    ], 
+    "FixedDamage": 0, 
+    "Id": 115, 
+    "ImpactBomb": 0, 
+    "Index": 15, 
+    "IsHarm": 0, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 0, 
+    "SkillDescription": "爪击", 
+    "SkillName": "爪击", 
+    "SkillProbability": 80, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.0, 
+      -0.005, 
+      0.55
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      "SFX_UI_Attack", 
+      "10000"
+    ], 
+    "TriggerTime": 1000, 
+    "UseShake": [
+      "1", 
+      "WaistBind"
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 116, 
+    "ImpactBomb": 1, 
+    "Index": 16, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.541, 
+      0.576, 
+      2.781
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 117, 
+    "ImpactBomb": 1, 
+    "Index": 17, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.433, 
+      1.035, 
+      2.781
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 118, 
+    "ImpactBomb": 1, 
+    "Index": 18, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.676, 
+      0.835, 
+      2.781
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 119, 
+    "ImpactBomb": 1, 
+    "Index": 19, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      -0.439, 
+      0.484, 
+      2.781
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 120, 
+    "ImpactBomb": 1, 
+    "Index": 20, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      -0.272, 
+      1.054, 
+      2.781
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 0, 
+    "Animation": "NULL", 
+    "BulletTime": [
+      "NULL"
+    ], 
+    "BulletTimeSound": [
+      0.0
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 500, 
+    "CoolTick": 1000, 
+    "DamageLifeTime": 2, 
+    "Effect": [
+      "HuoTuan", 
+      "None", 
+      "1"
+    ], 
+    "FixedDamage": 1, 
+    "Id": 121, 
+    "ImpactBomb": 1, 
+    "Index": 21, 
+    "IsHarm": 1, 
+    "IsSummon": 0, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 10000, 
+    "SkillDescription": "火焰", 
+    "SkillName": "火焰自然", 
+    "SkillProbability": 10000, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      -0.659, 
+      0.836, 
+      2.781
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      0.0
+    ], 
+    "TriggerSound": [
+      0.0
+    ], 
+    "TriggerTime": 1, 
+    "UseShake": [
+      1.0
+    ]
+  }, 
+  {
+    "ActionTick": 3400, 
+    "Animation": "Summon", 
+    "BulletTime": [
+      "0.025", 
+      "1500", 
+      "4000", 
+      "4", 
+      "2", 
+      "KneeBind_Left", 
+      "KneeBind_Right", 
+      "HandBind_Left", 
+      "HandBind_Right"
+    ], 
+    "BulletTimeSound": [
+      "SFX_Voice_Circle_En", 
+      "5000"
+    ], 
+    "CanTriggerBuff": 0, 
+    "CoolGroupID": 1, 
+    "CoolGroupTick": 1000, 
+    "CoolTick": 12000, 
+    "DamageLifeTime": 0, 
+    "Effect": [
+      "ZhaoHuan_Boss", 
+      "HandBind_Left", 
+      "1", 
+      "ZhaoHuan_Boss", 
+      "HandBind_Right", 
+      "1"
+    ], 
+    "FixedDamage": 0, 
+    "Id": 122, 
+    "ImpactBomb": 0, 
+    "Index": 22, 
+    "IsHarm": 0, 
+    "IsSummon": 1, 
+    "MethodList": [
+      0
+    ], 
+    "PercentDamage": 0, 
+    "SkillDescription": "召唤", 
+    "SkillName": "召唤", 
+    "SkillProbability": 30, 
+    "SkillTrigger": [
+      5.0, 
+      1.0, 
+      0.0, 
+      -0.005, 
+      0.55
+    ], 
+    "SkillType": 1, 
+    "SummonMonsterList": [
+      "13004", 
+      "0.894", 
+      "0.576", 
+      "0", 
+      "None", 
+      "-1", 
+      "13005", 
+      "0.706", 
+      "1.035", 
+      "0", 
+      "None", 
+      "-1", 
+      "13006", 
+      "1.029", 
+      "0.835", 
+      "0", 
+      "None", 
+      "-1", 
+      "13007", 
+      "-0.845", 
+      "0.576", 
+      "0", 
+      "None", 
+      "-1", 
+      "13008", 
+      "-0.678", 
+      "1.146", 
+      "0", 
+      "None", 
+      "-1", 
+      "13009", 
+      "-1.065", 
+      "0.928", 
+      "0", 
+      "None", 
+      "-1"
+    ], 
+    "TriggerSound": [
+      "SFX_UI_PreSummon", 
+      "10000"
+    ], 
+    "TriggerTime": 1000, 
+    "UseShake": [
+      0.0
+    ]
+  }
+]

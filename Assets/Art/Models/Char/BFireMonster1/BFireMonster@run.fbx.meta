@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: ccc53926f40b61c4c8ea6587bd371b16
+timeCreated: 1449712376
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chest_01
+    100004: chest_02
+    100006: chest_03
+    100008: chest_04
+    100010: chest_05
+    100012: chest_06
+    100014: chest_07
+    100016: head
+    100018: head_1_01
+    100020: head_1_02
+    100022: head_1_03
+    100024: head_3_01
+    100026: head_3_02
+    100028: head_3_03
+    100030: head_5_01
+    100032: head_5_02
+    100034: head_7_01
+    100036: head_7_02
+    100038: head_7_03
+    100040: head_9_01
+    100042: head_9_02
+    100044: head_9_03
+    100046: joint62
+    100048: L_arm
+    100050: L_elbow
+    100052: L_index_01
+    100054: L_index_02
+    100056: L_little_01
+    100058: L_little_02
+    100060: L_middle_01
+    100062: L_middle_02
+    100064: L_shoulder
+    100066: L_thumb_01
+    100068: L_thumb_02
+    100070: L_wrist
+    100072: R_arm
+    100074: R_elbow
+    100076: R_index_01
+    100078: R_index_02
+    100080: R_littlle_01
+    100082: R_littlle_02
+    100084: R_middle_01
+    100086: R_middle_02
+    100088: R_shourder
+    100090: R_thumb_01
+    100092: R_thumb_02
+    100094: R_wrist
+    100096: waist
+    400000: //RootNode
+    400002: chest_01
+    400004: chest_02
+    400006: chest_03
+    400008: chest_04
+    400010: chest_05
+    400012: chest_06
+    400014: chest_07
+    400016: head
+    400018: head_1_01
+    400020: head_1_02
+    400022: head_1_03
+    400024: head_3_01
+    400026: head_3_02
+    400028: head_3_03
+    400030: head_5_01
+    400032: head_5_02
+    400034: head_7_01
+    400036: head_7_02
+    400038: head_7_03
+    400040: head_9_01
+    400042: head_9_02
+    400044: head_9_03
+    400046: joint62
+    400048: L_arm
+    400050: L_elbow
+    400052: L_index_01
+    400054: L_index_02
+    400056: L_little_01
+    400058: L_little_02
+    400060: L_middle_01
+    400062: L_middle_02
+    400064: L_shoulder
+    400066: L_thumb_01
+    400068: L_thumb_02
+    400070: L_wrist
+    400072: R_arm
+    400074: R_elbow
+    400076: R_index_01
+    400078: R_index_02
+    400080: R_littlle_01
+    400082: R_littlle_02
+    400084: R_middle_01
+    400086: R_middle_02
+    400088: R_shourder
+    400090: R_thumb_01
+    400092: R_thumb_02
+    400094: R_wrist
+    400096: waist
+    7400000: run
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: waist
+        weight: 1
+      - path: waist/chest_01
+        weight: 1
+      - path: waist/chest_01/chest_02
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03/chest_04
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03/chest_04/chest_05
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03/chest_04/chest_05/chest_06
+        weight: 1
+      - path: waist/chest_01/chest_02/chest_03/chest_04/chest_05/chest_06/chest_07
+        weight: 1
+      - path: waist/head
+        weight: 1
+      - path: waist/head/joint62
+        weight: 1
+      - path: waist/head/joint62/head_1_01
+        weight: 1
+      - path: waist/head/joint62/head_1_01/head_1_02
+        weight: 1
+      - path: waist/head/joint62/head_1_01/head_1_02/head_1_03
+        weight: 1
+      - path: waist/head/joint62/head_3_01
+        weight: 1
+      - path: waist/head/joint62/head_3_01/head_3_02
+        weight: 1
+      - path: waist/head/joint62/head_3_01/head_3_02/head_3_03
+        weight: 1
+      - path: waist/head/joint62/head_5_01
+        weight: 1
+      - path: waist/head/joint62/head_5_01/head_5_02
+        weight: 1
+      - path: waist/head/joint62/head_7_01
+        weight: 1
+      - path: waist/head/joint62/head_7_01/head_7_02
+        weight: 1
+      - path: waist/head/joint62/head_7_01/head_7_02/head_7_03
+        weight: 1
+      - path: waist/head/joint62/head_9_01
+        weight: 1
+      - path: waist/head/joint62/head_9_01/head_9_02
+        weight: 1
+      - path: waist/head/joint62/head_9_01/head_9_02/head_9_03
+        weight: 1
+      - path: waist/L_shoulder
+        weight: 1
+      - path: waist/L_shoulder/L_arm
+        weight: 1
+      - path: waist/L_shoulder/L_arm/L_elbow
+        weight: 1
+      - path: waist/L_shoulder/L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: waist/L_shoulder/L_arm/L_elbow/L_wrist/L_index_01
+        weight: 1
+      - path: waist/L_shoulder/L_arm/L_elbow/L_wrist/L_index_01/L_index_02
+        weight: 1
+      - path: waist/L_shoulder/L_arm/L_elbow/L_wrist/L_little_01
+        weight: 1
+      - path: waist/L_shoulder/L_arm/L_elbow/L_wrist/L_little_01/L_little_02
+        weight: 1
+      - path: waist/L_shoulder/L_arm/L_elbow/L_wrist/L_middle_01
+        weight: 1
+      - path: waist/L_shoulder/L_arm/L_elbow/L_wrist/L_middle_01/L_middle_02
+        weight: 1
+      - path: waist/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb_01
+        weight: 1
+      - path: waist/L_shoulder/L_arm/L_elbow/L_wrist/L_thumb_01/L_thumb_02
+        weight: 1
+      - path: waist/R_shourder
+        weight: 1
+      - path: waist/R_shourder/R_arm
+        weight: 1
+      - path: waist/R_shourder/R_arm/R_elbow
+        weight: 1
+      - path: waist/R_shourder/R_arm/R_elbow/R_wrist
+        weight: 1
+      - path: waist/R_shourder/R_arm/R_elbow/R_wrist/R_index_01
+        weight: 1
+      - path: waist/R_shourder/R_arm/R_elbow/R_wrist/R_index_01/R_index_02
+        weight: 1
+      - path: waist/R_shourder/R_arm/R_elbow/R_wrist/R_littlle_01
+        weight: 1
+      - path: waist/R_shourder/R_arm/R_elbow/R_wrist/R_littlle_01/R_littlle_02
+        weight: 1
+      - path: waist/R_shourder/R_arm/R_elbow/R_wrist/R_middle_01
+        weight: 1
+      - path: waist/R_shourder/R_arm/R_elbow/R_wrist/R_middle_01/R_middle_02
+        weight: 1
+      - path: waist/R_shourder/R_arm/R_elbow/R_wrist/R_thumb_01
+        weight: 1
+      - path: waist/R_shourder/R_arm/R_elbow/R_wrist/R_thumb_01/R_thumb_02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

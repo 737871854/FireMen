@@ -1,0 +1,200 @@
+[
+  {
+    "AOEScores": 7000, 
+    "CheckPointScores": [
+      6000, 
+      12000, 
+      20000
+    ], 
+    "Id": 1001, 
+    "IsShow": 0, 
+    "Level": 1, 
+    "MustKillID": [
+      0.0
+    ], 
+    "MustKillMonster": [
+      0.0
+    ], 
+    "SceneID": 1, 
+    "SceneName": "场景1", 
+    "SceneTime": 0, 
+    "ShakeTimes": 50, 
+    "WaterTime": 12000
+  }, 
+  {
+    "AOEScores": 7000, 
+    "CheckPointScores": [
+      9000, 
+      16000, 
+      25000
+    ], 
+    "Id": 1002, 
+    "IsShow": 0, 
+    "Level": 2, 
+    "MustKillID": [
+      0.0
+    ], 
+    "MustKillMonster": [
+      0.0
+    ], 
+    "SceneID": 1, 
+    "SceneName": "场景1", 
+    "SceneTime": 0, 
+    "ShakeTimes": 50, 
+    "WaterTime": 12000
+  }, 
+  {
+    "AOEScores": 7000, 
+    "CheckPointScores": [
+      12000, 
+      20000, 
+      30000
+    ], 
+    "Id": 1003, 
+    "IsShow": 0, 
+    "Level": 3, 
+    "MustKillID": [
+      0.0
+    ], 
+    "MustKillMonster": [
+      0.0
+    ], 
+    "SceneID": 1, 
+    "SceneName": "场景1", 
+    "SceneTime": 0, 
+    "ShakeTimes": 50, 
+    "WaterTime": 15000
+  }, 
+  {
+    "AOEScores": 7000, 
+    "CheckPointScores": [
+      3500, 
+      13000, 
+      25000
+    ], 
+    "Id": 2001, 
+    "IsShow": 0, 
+    "Level": 1, 
+    "MustKillID": [
+      0.0
+    ], 
+    "MustKillMonster": [
+      0.0
+    ], 
+    "SceneID": 2, 
+    "SceneName": "场景2", 
+    "SceneTime": 0, 
+    "ShakeTimes": 0, 
+    "WaterTime": 0
+  }, 
+  {
+    "AOEScores": 7000, 
+    "CheckPointScores": [
+      6500, 
+      17000, 
+      30000
+    ], 
+    "Id": 2002, 
+    "IsShow": 0, 
+    "Level": 2, 
+    "MustKillID": [
+      0.0
+    ], 
+    "MustKillMonster": [
+      0.0
+    ], 
+    "SceneID": 2, 
+    "SceneName": "场景2", 
+    "SceneTime": 0, 
+    "ShakeTimes": 0, 
+    "WaterTime": 0
+  }, 
+  {
+    "AOEScores": 7000, 
+    "CheckPointScores": [
+      9500, 
+      21000, 
+      35000
+    ], 
+    "Id": 2003, 
+    "IsShow": 0, 
+    "Level": 3, 
+    "MustKillID": [
+      0.0
+    ], 
+    "MustKillMonster": [
+      0.0
+    ], 
+    "SceneID": 2, 
+    "SceneName": "场景2", 
+    "SceneTime": 0, 
+    "ShakeTimes": 0, 
+    "WaterTime": 0
+  }, 
+  {
+    "AOEScores": 7000, 
+    "CheckPointScores": [
+      0
+    ], 
+    "Id": 3001, 
+    "IsShow": 0, 
+    "Level": 1, 
+    "MustKillID": [
+      "2", 
+      "33001", 
+      "1"
+    ], 
+    "MustKillMonster": [
+      0.0
+    ], 
+    "SceneID": 3, 
+    "SceneName": "场景3", 
+    "SceneTime": 0, 
+    "ShakeTimes": 0, 
+    "WaterTime": 0
+  }, 
+  {
+    "AOEScores": 7000, 
+    "CheckPointScores": [
+      0
+    ], 
+    "Id": 3002, 
+    "IsShow": 0, 
+    "Level": 2, 
+    "MustKillID": [
+      "2", 
+      "33010", 
+      "1"
+    ], 
+    "MustKillMonster": [
+      0.0
+    ], 
+    "SceneID": 3, 
+    "SceneName": "场景3", 
+    "SceneTime": 0, 
+    "ShakeTimes": 0, 
+    "WaterTime": 0
+  }, 
+  {
+    "AOEScores": 7000, 
+    "CheckPointScores": [
+      0
+    ], 
+    "Id": 3003, 
+    "IsShow": 0, 
+    "Level": 3, 
+    "MustKillID": [
+      "2", 
+      "33011", 
+      "1"
+    ], 
+    "MustKillMonster": [
+      0.0
+    ], 
+    "SceneID": 3, 
+    "SceneName": "场景3", 
+    "SceneTime": 0, 
+    "ShakeTimes": 0, 
+    "WaterTime": 0
+  }
+]

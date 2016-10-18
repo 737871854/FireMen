@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 146152cdd808ef64585c4a97ec8f264f
+timeCreated: 1442219303
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: car_01
+    100002: car_02
+    100004: car_03
+    100006: //RootNode
+    100008: Cyclotron_support_01
+    100010: Cyclotron_support_02
+    100012: H_L_wheels_01
+    100014: H_L_wheels_02
+    100016: H_L_wheels_03
+    100018: H_R_wheels_01
+    100020: H_R_wheels_02
+    100022: H_R_wheels_03
+    100024: joint56
+    100026: joint95
+    100028: joint97
+    100030: L_After_the_stent_01
+    100032: L_After_the_stent_02
+    100034: L_After_the_stent_03
+    100036: L_After_the_stent_04
+    100038: L_Before_stent_01
+    100040: L_Before_stent_02
+    100042: L_Before_stent_03
+    100044: L_Before_stent_04
+    100046: L_The_car_door_01
+    100048: L_The_car_door_02
+    100050: ladder
+    100052: q_L_wheels_01
+    100054: q_L_wheels_02
+    100056: q_L_wheels_03
+    100058: q_R_wheels_01
+    100060: q_R_wheels_02
+    100062: q_R_wheels_03
+    100064: R_After_the_stent_01
+    100066: R_After_the_stent_02
+    100068: R_After_the_stent_03
+    100070: R_After_the_stent_04
+    100072: R_Before_stent_01
+    100074: R_Before_stent_02
+    100076: R_Before_stent_03
+    100078: R_Before_stent_04
+    100080: R_The_car_door_01
+    100082: R_The_car_door_02
+    100084: Stand_arm_01
+    100086: Stand_arm_02
+    100088: Stand_arm_03
+    100090: Stand_arm_04
+    100092: The_tail
+    100094: waist
+    100096: z
+    400000: car_01
+    400002: car_02
+    400004: car_03
+    400006: //RootNode
+    400008: Cyclotron_support_01
+    400010: Cyclotron_support_02
+    400012: H_L_wheels_01
+    400014: H_L_wheels_02
+    400016: H_L_wheels_03
+    400018: H_R_wheels_01
+    400020: H_R_wheels_02
+    400022: H_R_wheels_03
+    400024: joint56
+    400026: joint95
+    400028: joint97
+    400030: L_After_the_stent_01
+    400032: L_After_the_stent_02
+    400034: L_After_the_stent_03
+    400036: L_After_the_stent_04
+    400038: L_Before_stent_01
+    400040: L_Before_stent_02
+    400042: L_Before_stent_03
+    400044: L_Before_stent_04
+    400046: L_The_car_door_01
+    400048: L_The_car_door_02
+    400050: ladder
+    400052: q_L_wheels_01
+    400054: q_L_wheels_02
+    400056: q_L_wheels_03
+    400058: q_R_wheels_01
+    400060: q_R_wheels_02
+    400062: q_R_wheels_03
+    400064: R_After_the_stent_01
+    400066: R_After_the_stent_02
+    400068: R_After_the_stent_03
+    400070: R_After_the_stent_04
+    400072: R_Before_stent_01
+    400074: R_Before_stent_02
+    400076: R_Before_stent_03
+    400078: R_Before_stent_04
+    400080: R_The_car_door_01
+    400082: R_The_car_door_02
+    400084: Stand_arm_01
+    400086: Stand_arm_02
+    400088: Stand_arm_03
+    400090: Stand_arm_04
+    400092: The_tail
+    400094: waist
+    400096: z
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2.70000005
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
